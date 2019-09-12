@@ -1,0 +1,6 @@
+<view class='page-container-classname'>
+                <view class='container' ref='saveChildRef0' disable-scroll='{{false}}'>
+  <ec-canvas id='mychart-dom-area' canvas-id='mychart-area' ec='{{ ec }}' ref='saveChildRef1'>
+  </ec-canvas>
+</view>
+            </view>

@@ -1,0 +1,12 @@
+<view class='page-container-classname'>
+                <view class='container' ref='saveChildRef0'>
+  <button a:if='{{!isLoaded}}' onTap='init'>
+    加载图表
+  </button>
+  <button a:if='{{isLoaded && !isDisposed}}' onTap='dispose'>
+    释放图表
+  </button>
+  <ec-canvas a:if='{{!isDisposed}}' id='mychart-dom-bar' canvas-id='mychart-bar' ec='{{ ec }}' ref='saveChildRef1'>
+  </ec-canvas>
+</view>
+            </view>

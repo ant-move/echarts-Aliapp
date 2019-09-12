@@ -1,0 +1,8 @@
+<view class='page-container-classname'>
+                <view class='container' ref='saveChildRef0'>
+  <ec-canvas class='mychart-dom-multi-bar' canvas-id='mychart-multi-bar' ec='{{ ecBar }}' ref='saveChildRef1'>
+  </ec-canvas>
+  <ec-canvas class='mychart-dom-multi-scatter' canvas-id='mychart-multi-scatter' ec='{{ ecScatter }}' ref='saveChildRef2'>
+  </ec-canvas>
+</view>
+            </view>

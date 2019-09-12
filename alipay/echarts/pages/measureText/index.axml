@@ -1,0 +1,6 @@
+<view class='page-container-classname'>
+                <view class='container' ref='saveChildRef0'>
+  measureText: {{ value }}  <canvas id='measure'>
+  </canvas>
+</view>
+            </view>

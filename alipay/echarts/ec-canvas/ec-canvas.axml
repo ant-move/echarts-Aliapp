@@ -1,0 +1,2 @@
+<canvas disable-scroll='{{false}}' width='{{width}}' height='{{height}}' class='ec-canvas ec-canvas-{{canvasId}} {{className}}' ref='saveChildRef0' id='{{ canvasId }}' onTouchStart="{{ ec.disableTouch ? '' : 'touchStart' }}" onTouchMove="{{ ec.disableTouch ? '' : 'touchMove' }}" onTouchEnd="{{ ec.disableTouch ? '' : 'touchEnd' }}" onInited='init'>
+</canvas>

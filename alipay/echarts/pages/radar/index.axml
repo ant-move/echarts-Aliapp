@@ -1,0 +1,6 @@
+<view class='page-container-classname'>
+                <view class='container' ref='saveChildRef0'>
+  <ec-canvas id='mychart-dom-graph' canvas-id='mychart-graph' ec='{{ ec }}' ref='saveChildRef1'>
+  </ec-canvas>
+</view>
+            </view>
