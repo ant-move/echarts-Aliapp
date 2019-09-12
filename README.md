@@ -9,7 +9,7 @@
 在支付宝中扫描下面的二维码即可体验 ECharts Demo：
 
 ![ECharts Demo](https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg)
-<img width='150' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg'/>
+<img style='width: 150px;' width='150' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg'/>
 
 ## 下载
 
