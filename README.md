@@ -9,7 +9,7 @@
 在支付宝中扫描下面的二维码即可体验 ECharts Demo：
 
 ![ECharts Demo](https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg)
-<img width='150px' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg'/>
+<img width='150' src='https://cache.amap.com/ecology/tool/antmove/web/assets/qr/echart.jpg'/>
 
 ## 下载
 
@@ -132,3 +132,7 @@ ECharts 中的绝大部分功能都支持小程序版本，因此这里仅说明
 - iOS 平台：渐变色出现在定义区域之外的地方
 
 如有其它问题，也欢迎在 [issue](https://github.com/ant-move/echarts-Aliapp/issues) 中向我们反馈，谢谢！
+
+## 参考链接
+
+* [GitHub - ecomfe/echarts-for-weixin: ECharts 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
